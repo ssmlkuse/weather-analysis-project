@@ -3,6 +3,8 @@
 This project contains weather data and analysis tools for Kaluga Oblast, Russia.
 
 ## Files:
-- `weather_data.csv` — current weather data
-- `analyze_weather.py` — script for plotting temperature
+- `weather_data.csv` — температура и влажность
+- `wind_data.csv` — скорость и направление ветра
+- `analyze_weather.py` — график температуры
+- `analyze_wind.py` — график ветра
 Last updated: 11.11.2025
